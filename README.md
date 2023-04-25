@@ -1,4 +1,7 @@
-### Hi there 👋
+### hello I am Rob Cass
+
+- 🔭 I’m currently working on helping as many companies as I can
+- 🌱 I’m currently learning project and people management
 
 <!--
 **c4ss/c4ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
